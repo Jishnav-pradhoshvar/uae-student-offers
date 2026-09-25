@@ -1,4 +1,4 @@
-# Get FREE Offers, Deals & Student Discounts — UAE!
+# <img src="Assets/grabon-uae-favicon.png" width="32" height="32" alt=""> Get FREE Offers, Deals & Student Discounts — UAE!
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/YOUR-USERNAME/grabon-uae-offers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md)
@@ -12,13 +12,13 @@
 
 ## Saving More? Start with GrabOn UAE
 
-[![GrabOn UAE](Assets/grabon-uae-banner.svg)](https://grabonuae.ae/)
+[![GrabOn UAE — Your Savings Matter](Assets/grabon-uae-og-banner.jpg)](https://grabonuae.ae/)
 
 For live, verified coupon codes across UAE retail, travel, food delivery and more — updated continuously — check [GrabOn UAE](https://grabonuae.ae/).
 
 *"We help you save on everything." — #YourSavingsMatter*
 
-[![Visit GrabOn UAE](Assets/visit-grabon-button.svg)](https://grabonuae.ae/)
+[<img src="Assets/grabon-uae-logo.png" alt="GrabOn UAE" height="49">](https://grabonuae.ae/)
 
 ---
 
