@@ -14,12 +14,14 @@
 
 [![Save more with GrabOn UAE](Assets/grabon-uae-banner.svg)](https://grabonuae.ae/)
 
+**"We help you save on everything." — #YourSavingsMatter**
+
 Explore [GrabOn UAE](https://grabonuae.ae/) and check out:
 
-- Verified coupon codes for 500+ UAE brands, updated daily.
-- Deals across electronics, fashion, food delivery, travel and grocery.
-- A dedicated blog covering ongoing UAE sales, festivals and shopping events.
-- Cashback and offer alerts so you never miss an expiring code.
+- Live coupon codes across 35+ active UAE stores (Samsung, Amazon, Nike, Udemy, Careem, NAMSHI and more — see [`Database/database.md`](Database/database.md) for current counts).
+- Deals across electronics, fashion, food delivery, travel, beauty and more — [30+ categories](https://grabonuae.ae/categories/).
+- A dedicated [blog](https://grabonuae.ae/blog/) covering ongoing UAE sales and shopping events.
+- Coupon/offer alerts via email so you don't miss an expiring code.
 
 Save more on every purchase 🛍️
 
@@ -33,15 +35,16 @@ Save more on every purchase 🛍️
 
 ###### Ctrl / Cmd + F to find anything
 
-A quick preview — the full, regularly-updated table lives in [`Database/database.md`](Database/database.md):
+A live preview — pulled straight from grabonuae.ae, full table in [`Database/database.md`](Database/database.md):
 
-| Offer | Benefit | Category |
+| Store | Offer | Link |
 |---|---|---|
-| [Fazaa Membership](https://fazaa.ae/) | Free UAE resident discount membership — 34,000+ outlets | Resident Benefits |
-| [UNiDAYS UAE](https://www.myunidays.com/AE/en-AE) | Verified student discounts across fashion, tech, food | Student Discounts |
-| [GitHub Student Developer Pack](https://education.github.com/pack) | $200K+ of free dev tools while enrolled | Development |
-| [Samsung Education Store UAE](https://www.samsung.com/ae/shop/discount-program/education/) | Up to ~30% off for verified students | Electronics |
-| ...and 15+ more | — | — |
+| Samsung | Flat AED 70 off Galaxy Fit3 Smartwatch | [View coupons](https://grabonuae.ae/samsung-coupons/) |
+| Nike | Up to 60% off sale products | [View coupons](https://grabonuae.ae/nike-coupons/) |
+| Booking.com | Up to 30% off select hotel bookings | [View coupons](https://grabonuae.ae/booking-coupons/) |
+| Amazon | Up to 40% off mobiles | [View coupons](https://grabonuae.ae/amazon-coupons/) |
+| Fazaa Membership | Free UAE resident discount membership — 34,000+ outlets | [fazaa.ae](https://fazaa.ae/) |
+| ...20+ more offers & stores | — | [Full database](Database/database.md) |
 
 ---
 
