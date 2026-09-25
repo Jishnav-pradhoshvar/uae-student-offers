@@ -12,13 +12,13 @@
 
 ## Saving More? Start with GrabOn UAE
 
-[![GrabOn UAE — Your Savings Matter](Assets/grabon-uae-og-banner.jpg)](https://grabonuae.ae/)
+[![GrabOn UAE — Your Savings Matter](Assets/grabon-uae-og-banner.jpg)](https://grabonuae.ae/blog/best-student-discounts-uae/)
 
-For live, verified coupon codes across UAE retail, travel, food delivery and more — updated continuously — check [GrabOn UAE](https://grabonuae.ae/).
+For live, verified coupon codes across UAE retail, travel, food delivery and more — updated continuously — check [GrabOn UAE](https://grabonuae.ae/blog/best-student-discounts-uae/).
 
 *"We help you save on everything." — #YourSavingsMatter*
 
-[<img src="Assets/grabon-uae-logo.png" alt="GrabOn UAE" height="49">](https://grabonuae.ae/)
+[<img src="Assets/grabon-uae-logo.png" alt="GrabOn UAE" height="49">](https://grabonuae.ae/blog/best-student-discounts-uae/)
 
 ---
 
@@ -130,9 +130,9 @@ See [`instructions/`](instructions/) for step-by-step guides:
 
 ## About
 
-A public database of UAE student discounts and free offers — with a pointer to [GrabOn UAE](https://grabonuae.ae/) for live coupon codes.
+A public database of UAE student discounts and free offers — with a pointer to [GrabOn UAE](https://grabonuae.ae/blog/best-student-discounts-uae/) for live coupon codes.
 
-**Live site:** [grabonuae.ae](https://grabonuae.ae/)
+**Live site:** [grabonuae.ae](https://grabonuae.ae/blog/best-student-discounts-uae/)
 
 ### Topics
 
