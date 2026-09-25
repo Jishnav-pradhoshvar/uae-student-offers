@@ -1,10 +1,10 @@
 # <img src="Assets/grabon-uae-favicon.png" width="32" height="32" alt=""> Get FREE Offers, Deals & Student Discounts — UAE!
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/YOUR-USERNAME/grabon-uae-offers)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Jishnav-pradhoshvar/uae-student-offers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md)
-[![license MIT](https://img.shields.io/github/license/YOUR-USERNAME/grabon-uae-offers)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/YOUR-USERNAME/grabon-uae-offers?style=flat&logo=github)](https://github.com/YOUR-USERNAME/grabon-uae-offers/stargazers)
-[![Forks](https://img.shields.io/github/forks/YOUR-USERNAME/grabon-uae-offers?style=flat&logo=github)](https://github.com/YOUR-USERNAME/grabon-uae-offers/network/members)
+[![license MIT](https://img.shields.io/github/license/Jishnav-pradhoshvar/uae-student-offers)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/Jishnav-pradhoshvar/uae-student-offers?style=flat&logo=github)](https://github.com/Jishnav-pradhoshvar/uae-student-offers/stargazers)
+[![Forks](https://img.shields.io/github/forks/Jishnav-pradhoshvar/uae-student-offers?style=flat&logo=github)](https://github.com/Jishnav-pradhoshvar/uae-student-offers/network/members)
 [![Contributors Welcome](https://img.shields.io/badge/Contributors-Welcome-orange.svg)](CONTRIBUTING.md)
 [![Hacktoberfest Accepted](https://img.shields.io/badge/Hacktoberfest-Accepted-yellowgreen)](https://hacktoberfest.com/)
 
@@ -126,7 +126,7 @@ See [`instructions/`](instructions/) for step-by-step guides:
 
 # Contributors
 
-[![Contributors](https://contrib.rocks/image?repo=YOUR-USERNAME/grabon-uae-offers)](https://github.com/YOUR-USERNAME/grabon-uae-offers/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=Jishnav-pradhoshvar/uae-student-offers)](https://github.com/Jishnav-pradhoshvar/uae-student-offers/graphs/contributors)
 
 ## About
 
