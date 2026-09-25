@@ -1,4 +1,4 @@
-# Get FREE Offers, Deals & Discounts List — UAE!
+# Get FREE Offers, Deals & Student Discounts — UAE!
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/YOUR-USERNAME/grabon-uae-offers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md)
@@ -6,27 +6,21 @@
 [![Stars](https://img.shields.io/github/stars/YOUR-USERNAME/grabon-uae-offers?style=flat&logo=github)](https://github.com/YOUR-USERNAME/grabon-uae-offers/stargazers)
 [![Forks](https://img.shields.io/github/forks/YOUR-USERNAME/grabon-uae-offers?style=flat&logo=github)](https://github.com/YOUR-USERNAME/grabon-uae-offers/network/members)
 [![Contributors Welcome](https://img.shields.io/badge/Contributors-Welcome-orange.svg)](CONTRIBUTING.md)
-[![If Useful](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=flat&color=BC4E99)](https://github.com/YOUR-USERNAME/grabon-uae-offers/stargazers)
 [![Hacktoberfest Accepted](https://img.shields.io/badge/Hacktoberfest-Accepted-yellowgreen)](https://hacktoberfest.com/)
 
 ---
 
-## **Coupons, Deals & Cashback**
+## Saving More? Start with GrabOn UAE
 
 [![GrabOn UAE](Assets/grabon-uae-banner.svg)](https://grabonuae.ae/)
 
-Explore GrabOn UAE's website and check out:
-
-- Live coupon codes across 35+ active UAE stores — Samsung, Amazon, Nike, Udemy, Careem, NAMSHI and more.
-- Deals across electronics, fashion, food delivery, travel, beauty and [30+ categories](https://grabonuae.ae/categories/).
-- A dedicated [blog](https://grabonuae.ae/blog/) covering ongoing UAE sales and shopping events.
-- Coupon/offer alerts by email so you never miss an expiring code.
+For live, verified coupon codes across UAE retail, travel, food delivery and more — updated continuously — check [GrabOn UAE](https://grabonuae.ae/).
 
 *"We help you save on everything." — #YourSavingsMatter*
 
 [![Visit GrabOn UAE](Assets/visit-grabon-button.svg)](https://grabonuae.ae/)
 
-Curated by GrabOn UAE
+---
 
 ## Offers List Is Here 👇👇
 
@@ -36,22 +30,7 @@ Curated by GrabOn UAE
 
 | Product | Offer Benefits | Type |
 |---|---|---|
-| [GrabOn UAE — Samsung Coupons](https://grabonuae.ae/samsung-coupons/) | Flat AED 70 off Galaxy Fit3 Smartwatch — 38 active coupons | Electronics |
-| [GrabOn UAE — Nike Coupons](https://grabonuae.ae/nike-coupons/) | Up to 60% off sale products — 33 active coupons | Fashion |
-| [GrabOn UAE — Amazon Coupons](https://grabonuae.ae/amazon-coupons/) | Up to 40% off mobiles — 33 active coupons | Ecommerce |
-| [GrabOn UAE — Udemy Coupons](https://grabonuae.ae/udemy-coupons/) | Ongoing course discounts — 36 active coupons | Education |
-| [GrabOn UAE — Booking.com Coupons](https://grabonuae.ae/booking-coupons/) | Up to 30% off select hotel bookings | Travel |
-| [GrabOn UAE — Etihad Airways Coupons](https://grabonuae.ae/etihad-airways-coupons/) | Up to 15% off — Early Bird Sale advance bookings | Travel |
-| [GrabOn UAE — H&M Coupons](https://grabonuae.ae/hm-coupons/) | Flat 30% off best sellers — 13 active coupons | Fashion |
-| [GrabOn UAE — Temu Coupons](https://grabonuae.ae/temu-coupons/) | Up to 80% off clearance sale | Ecommerce |
-| [GrabOn UAE — Crocs Coupons](https://grabonuae.ae/crocs-coupons/) | Up to 80% off women's footwear | Footwear |
-| [GrabOn UAE — Foot Locker Coupons](https://grabonuae.ae/foot-locker-coupons/) | 10% off everything | Footwear |
-| [GrabOn UAE — Careem Coupons](https://grabonuae.ae/careem-coupons/) | 27 active coupons across rides & delivery | Transport |
-| [GrabOn UAE — NAMSHI Coupons](https://grabonuae.ae/namshi-coupons/) | 28 active coupons on fashion | Fashion |
-| [GrabOn UAE — Noon Coupons](https://grabonuae.ae/noon-coupons/) | Most Popular Store — 16 coupons, 17 offers | Ecommerce |
-| [GrabOn UAE — Hostinger Coupons](https://grabonuae.ae/hostinger-coupons/) | 29 active coupons on hosting | Hosting |
-| [GrabOn UAE — Pizza Hut Coupons](https://grabonuae.ae/pizza-hut-coupons/) | 27 active coupons on food | Food |
-| [Fazaa Membership](https://fazaa.ae/) | Free UAE resident discount membership — 34,000+ retail outlets, travel & entertainment | Resident Benefits |
+| [Fazaa Membership](https://fazaa.ae/) | Free UAE resident discount membership — 34,000+ retail outlets, travel & entertainment (2026 Year of the Family program) | Resident Benefits |
 | [UNiDAYS UAE](https://www.myunidays.com/AE/en-AE) | Verified student discounts across fashion, tech, food | Student Discounts |
 | [Student Beans](https://www.studentbeans.com/) | Verified student discounts, alternate brand roster to UNiDAYS | Student Discounts |
 | [Samsung Education Store UAE](https://www.samsung.com/ae/shop/discount-program/education/) | Up to ~30% off Samsung devices for verified students | Electronics |
@@ -63,12 +42,16 @@ Curated by GrabOn UAE
 | [Novo Cinemas Student Pricing](https://www.novocinemas.com/) | Reduced weekday ticket pricing with valid student ID | Entertainment |
 | [RTA Student Nol Card](https://www.rta.ae/) | Discounted Dubai Metro/bus fares for students | Transport |
 | [GitHub Student Developer Pack](https://education.github.com/pack) | $200K+ worth of free dev tools while enrolled | Development |
+| [GitHub Education Discount](https://education.github.com/) | Free GitHub Pro for students & teachers | Developer |
 | [JetBrains Student License](https://www.jetbrains.com/education/) | All JetBrains IDEs free, 1-year renewable | Developer |
 | [Microsoft Azure for Students](https://azure.microsoft.com/en-in/free/students/) | $100 Azure credit, no card required | Cloud |
+| [AWS Educate](https://aws.amazon.com/education/awseducate/) | Starter cloud credits | Cloud |
 | [Notion Education Plan](https://www.notion.so/product/notion-for-education) | Notion Plus free for verified students | Productivity |
 | [Figma Education](https://www.figma.com/education/) | Figma & FigJam Pro free | Design |
 | [Canva for Education](https://www.canva.com/education/) | Canva Pro free for students/teachers | Design |
+| [Namecheap .me Domain (GitHub Pack)](https://nc.me/) | Free domain + SSL, 1 year | Domains |
 | [Perplexity Pro for Students](https://www.perplexity.ai/backtoschool) | Free Pro subscription for eligible colleges | AI Tools |
+| [Adobe Creative Cloud Student Plan](https://www.adobe.com/education/students.html) | Discounted full CC suite | Design |
 
 *(Full, continuously-updated version of this table lives in [`Database/database.md`](Database/database.md) — this README copy may lag by a few days.)*
 
@@ -76,7 +59,7 @@ Curated by GrabOn UAE
 
 # What is this?
 
-- **This is a public database of free offers, student discounts and live coupon codes relevant to people living, working or studying in the UAE.**
+- **This is a public database of free offers and student discounts relevant to people living, working or studying in the UAE.**
 - **Beginner-friendly repository for starting your open-source contribution journey.**
 - **Feel free to add more if we missed anything!**
 - **CONTRIBUTORS NEEDED FOR MAINTAINING THIS DATABASE!**
@@ -147,13 +130,13 @@ See [`instructions/`](instructions/) for step-by-step guides:
 
 ## About
 
-A public database of UAE coupons, offers and student discounts — curated by [GrabOn UAE](https://grabonuae.ae/).
+A public database of UAE student discounts and free offers — with a pointer to [GrabOn UAE](https://grabonuae.ae/) for live coupon codes.
 
 **Live site:** [grabonuae.ae](https://grabonuae.ae/)
 
 ### Topics
 
-`uae` `dubai` `coupons` `deals` `student-discounts` `free-offers` `hacktoberfest` `collaborate` `github-pages`
+`uae` `dubai` `student-discounts` `free-offers` `hacktoberfest` `collaborate` `github-pages`
 
 ### Resources
 
